@@ -1,0 +1,246 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.2.2",
+  "pathMappings": {
+    "@project/anchor": [
+      "anchor/src"
+    ],
+    "@/*": [
+      "./src/*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".eslintrc.json",
+        "hash": "10616060546436571437"
+      },
+      {
+        "file": ".github/workflows/test-anchor.yml",
+        "hash": "5469507116822966652"
+      },
+      {
+        "file": ".github/workflows/test-web.yml",
+        "hash": "6552913292144435980"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "3067081929917913099"
+      },
+      {
+        "file": "LICENSE",
+        "hash": "6456187048195462157"
+      },
+      {
+        "file": "README.md",
+        "hash": "4170646461830686821"
+      },
+      {
+        "file": "anchor/.gitignore",
+        "hash": "16593770647116112581"
+      },
+      {
+        "file": "anchor/.prettierignore",
+        "hash": "7843917089563445490"
+      },
+      {
+        "file": "anchor/Anchor.toml",
+        "hash": "1854505326414153882"
+      },
+      {
+        "file": "anchor/Cargo.lock",
+        "hash": "3991162978191221207"
+      },
+      {
+        "file": "anchor/Cargo.toml",
+        "hash": "18016256559089331344"
+      },
+      {
+        "file": "anchor/migrations/deploy.ts",
+        "hash": "10976378885478946054"
+      },
+      {
+        "file": "anchor/programs/voting/Cargo.toml",
+        "hash": "14128149198022664634"
+      },
+      {
+        "file": "anchor/programs/voting/Xargo.toml",
+        "hash": "12304191003573283670"
+      },
+      {
+        "file": "anchor/programs/voting/src/lib.rs",
+        "hash": "5791975529937128031"
+      },
+      {
+        "file": "anchor/src/index.ts",
+        "hash": "4088472061356506023"
+      },
+      {
+        "file": "anchor/src/votingdapp-exports.ts",
+        "hash": "2469220999711758311"
+      },
+      {
+        "file": "anchor/target/idl/voting.json",
+        "hash": "1970093254830895803"
+      },
+      {
+        "file": "anchor/target/idl/votingdapp.json",
+        "hash": "1926796279547692226"
+      },
+      {
+        "file": "anchor/target/types/voting.ts",
+        "hash": "10833439072367606087"
+      },
+      {
+        "file": "anchor/target/types/votingdapp.ts",
+        "hash": "13081409306292415027"
+      },
+      {
+        "file": "anchor/tests/fixtures/voting.so",
+        "hash": "17034704756963346801"
+      },
+      {
+        "file": "anchor/tests/voting.spec.ts",
+        "hash": "16732012352682226680"
+      },
+      {
+        "file": "anchor/tsconfig.json",
+        "hash": "11143964679201792117"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "9802729207363892141"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "17884145015805651112"
+      },
+      {
+        "file": "next.config.mjs",
+        "hash": "6567081978241091914"
+      },
+      {
+        "file": "nx.json",
+        "hash": "11272346130122066677"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "6510906782421260289"
+      },
+      {
+        "file": "package.json",
+        "hash": "645319860823121944"
+      },
+      {
+        "file": "postcss.config.mjs",
+        "hash": "2557392112968376575"
+      },
+      {
+        "file": "public/logo.png",
+        "hash": "577251929812501589"
+      },
+      {
+        "file": "src/app/account/[address]/page.tsx",
+        "hash": "2418282863910201975"
+      },
+      {
+        "file": "src/app/account/page.tsx",
+        "hash": "15508538186487059837"
+      },
+      {
+        "file": "src/app/api/hello/route.ts",
+        "hash": "10871173957445743937"
+      },
+      {
+        "file": "src/app/clusters/page.tsx",
+        "hash": "4081313287706929357"
+      },
+      {
+        "file": "src/app/favicon.ico",
+        "hash": "13871463210711627531"
+      },
+      {
+        "file": "src/app/globals.css",
+        "hash": "13305080543018796995"
+      },
+      {
+        "file": "src/app/layout.tsx",
+        "hash": "1575223401822610540"
+      },
+      {
+        "file": "src/app/page.tsx",
+        "hash": "16135111651207646634"
+      },
+      {
+        "file": "src/app/react-query-provider.tsx",
+        "hash": "16257988815040671883"
+      },
+      {
+        "file": "src/app/votingdapp/page.tsx",
+        "hash": "14022443674366719591"
+      },
+      {
+        "file": "src/components/account/account-data-access.tsx",
+        "hash": "3595116591541915566"
+      },
+      {
+        "file": "src/components/account/account-detail-feature.tsx",
+        "hash": "17280893676477927554"
+      },
+      {
+        "file": "src/components/account/account-list-feature.tsx",
+        "hash": "10567899344857465531"
+      },
+      {
+        "file": "src/components/account/account-ui.tsx",
+        "hash": "13393665765108492842"
+      },
+      {
+        "file": "src/components/cluster/cluster-data-access.tsx",
+        "hash": "18208765929087311592"
+      },
+      {
+        "file": "src/components/cluster/cluster-feature.tsx",
+        "hash": "6156765321197167176"
+      },
+      {
+        "file": "src/components/cluster/cluster-ui.tsx",
+        "hash": "10255411162910250632"
+      },
+      {
+        "file": "src/components/dashboard/dashboard-feature.tsx",
+        "hash": "15727978814720185665"
+      },
+      {
+        "file": "src/components/solana/solana-provider.tsx",
+        "hash": "663964869192714384"
+      },
+      {
+        "file": "src/components/ui/ui-layout.tsx",
+        "hash": "6233772404297461178"
+      },
+      {
+        "file": "src/components/votingdapp/votingdapp-data-access.tsx",
+        "hash": "295977253411229989"
+      },
+      {
+        "file": "src/components/votingdapp/votingdapp-feature.tsx",
+        "hash": "4761198149416002910"
+      },
+      {
+        "file": "src/components/votingdapp/votingdapp-ui.tsx",
+        "hash": "5826223846913788822"
+      },
+      {
+        "file": "tailwind.config.ts",
+        "hash": "12481777264984855551"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "11108087362248761733"
+      }
+    ]
+  }
+}

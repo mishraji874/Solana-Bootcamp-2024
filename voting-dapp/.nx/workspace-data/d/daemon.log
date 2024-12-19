@@ -1,0 +1,11 @@
+[NX Daemon Server] - 2024-12-19T12:54:56.047Z - Started listening on: /tmp/a5821ee67fe3164b97c7/d.sock
+[NX Daemon Server] - 2024-12-19T12:54:56.100Z - [WATCHER]: Subscribed to changes within: /mnt/d/Web3/Solana-Development/Solana-Bootcamp-2024/voting-dapp (native)
+[NX Daemon Server] - 2024-12-19T12:54:56.121Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-19T12:54:56.140Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-19T12:54:56.145Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-19T12:54:56.171Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-12-19T12:54:56.172Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-12-19T12:54:56.173Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-12-19T12:54:56.178Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-19T12:54:56.183Z - [WATCHER]: Stopping the watcher for /mnt/d/Web3/Solana-Development/Solana-Bootcamp-2024/voting-dapp (sources)
+[NX Daemon Server] - 2024-12-19T12:54:56.188Z - [WATCHER]: Stopping the watcher for /mnt/d/Web3/Solana-Development/Solana-Bootcamp-2024/voting-dapp (outputs)
